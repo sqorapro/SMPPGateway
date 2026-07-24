@@ -1,0 +1,9 @@
+__pycache__/
+*.pyc
+*.db
+*.log
+build/
+dist/
+release/
+smpp_tunnel_key*
+*.spec.bak
